@@ -6,8 +6,6 @@
 
 ![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoNunes&show_icons=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoNunes)](https://github.com/EduardoNunes/github-readme-stats)
-
 ## Hard Skills
 
 <div style="display: inline_block"><br/>
